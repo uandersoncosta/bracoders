@@ -28,4 +28,4 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 ## 🙏 Apoio
 Esse projeto precisa de uma ⭐️ sua. Não esqueça de deixar uma ⭐️
 
-Se você achou esse site util, compartilhe com os seus amigos.
+Se você achou esse site útil, compartilhe com os seus amigos.
