@@ -1,25 +1,59 @@
-import logo from './logo.svg';
-import './App.css';
+import React, { useState } from "react";
+import { Card } from "./components/Card";
+import { Navbar } from "./components/Navbar";
+import { Sidebar } from "./components/Sidebar";
+import Data from "./listaSites.json";
+import { ThemeProvider } from "styled-components";
+import usePersistedState from "./utils/usePersistedState"
 
-function App() {
+import light from "./styles/styleMode/light";
+import dark from "./styles/styleMode/dark";
+
+import { Container, ListaCards, Section } from "./styles/styles";
+import { Nav } from "./components/Navbar/style";
+
+export function App() {
+  const [selectedCategory, setSelectedCategory] = useState(null);
+  const [theme, setTheme] = usePersistedState('theme', light);
+
+  const toogleTheme = () => {
+    setTheme(theme.title === "light" ? dark : light);
+  };
+
+  const handleCategoryClick = (event, category) => {
+    event.preventDefault();
+    setSelectedCategory(category);
+  };
+
+  const getFilteredItems = () => {
+    let filteredItems = Data;
+    if (selectedCategory) {
+      filteredItems = Data.filter(
+        (item) => item.categoria === selectedCategory
+      );
+    }
+    return filteredItems;
+  };
+
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <ThemeProvider theme={theme}>
+      <Container>
+        <Nav>
+          <Navbar toogleTheme={toogleTheme} />
+        </Nav>
+
+        <Section>
+          <Sidebar
+            items={Data}
+            handleCategoryClick={handleCategoryClick}
+            setSelectedCategory={setSelectedCategory}
+          />
+
+          <ListaCards>
+            <Card item={getFilteredItems()} />
+          </ListaCards>
+        </Section>
+      </Container>
+    </ThemeProvider>
   );
 }
-
-export default App;

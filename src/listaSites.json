@@ -1,0 +1,2133 @@
+[
+  {
+    "nome": "Happy Hues",
+    "descricao": "Cores com curadoria no contexto.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/happyhues-logo.avif",
+    "link": "https://www.happyhues.co"
+  },
+  {
+    "nome": "Webflow",
+    "descricao": "Webflow é a maneira de projetar, construir e lançar sites poderosos visualmente - sem codar.",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/webflow-logo.png",
+    "link": "https://webflow.com"
+  },
+  {
+    "nome": "Grabient",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/grabient-logo.gif",
+    "link": "https://www.grabient.com"
+  },
+  {
+    "nome": "Mobbin",
+    "descricao": "Navegue e pesquise centenas de aplicativos para iOS para pesquisas de UI e UX.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/mobbin-logo.avif",
+    "link": "https://mobbin.com/browse/ios/apps"
+  },
+  {
+    "nome": "Uiverse.io",
+    "descricao": "Centenas de elementos de interface do usuário de código aberto.",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/saaslandingpage-logo.jpg",
+    "link": "https://uiverse.io"
+  },
+  {
+    "nome": "Ikonate",
+    "descricao": "Ícones de vetor totalmente personalizáveis ​​e acessíveis.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/ikonate-logo.avif",
+    "link": "https://heroicons.dev/"
+  },
+  {
+    "nome": "Filipe Deschamps",
+    "descricao": "Vou fazer você se apaixonar por programação.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/FilipeDeschamps-logo.jpg",
+    "link": "https://www.youtube.com/@FilipeDeschamps"
+  },
+  {
+    "nome": "Undraw",
+    "descricao": "Ilustrações de código aberto para qualquer ideia.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/unDraw-logo.jpg",
+    "link": "https://undraw.co/illustrations"
+  },
+  {
+    "nome": "ProgramaThor",
+    "descricao": "Oportunidades de trabalho e vagas de programação.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/programathor-logo.png",
+    "link": "https://programathor.com.br"
+  },
+  {
+    "nome": "freeCodeCamp",
+    "descricao": "É uma organização sem fins lucrativos que consiste em uma plataforma web de aprendizagem interativa.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/freecodecamp-logo.png",
+    "link": "https://www.freecodecamp.org"
+  },
+  {
+    "nome": "Unsplash",
+    "descricao": "A fonte da Internet de imagens utilizáveis ​​gratuitamente.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/unsplash-logo.png",
+    "link": "https://unsplash.com/"
+  },
+  {
+    "nome": "Google Fonts",
+    "descricao": "Tornando a web mais bonita, rápida e aberta através de ótimas tipografia.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/googlefonts-logo.gif",
+    "link": "https://fonts.google.com/"
+  },
+  {
+    "nome": "Humaaans",
+    "descricao": "Mix-&-combina ilustrações de pessoas com uma biblioteca de design.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/humaaans-logo.avif",
+    "link": "https://www.humaaans.com"
+  },
+  {
+    "nome": "Overflow",
+    "descricao": "Transforme seus designs em diagramas de fluxo de usuário jogável.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/overflow-logo.png",
+    "link": "https://overflow.io"
+  },
+  {
+    "nome": "Maze",
+    "descricao": "Transforme seu protótipo em insights acionáveis.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/maze-logo.jpeg",
+    "link": "https://maze.co"
+  },
+  {
+    "nome": "Compilado do Código Fonte TV",
+    "descricao": "As novidades e principais notícias do mundo da programação.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/compiladotv-logo.jpg",
+    "link": "https://www.youtube.com/@CompiladoPodcast"
+  },
+  {
+    "nome": "PrimoTech",
+    "descricao": "Esse é o PrimoTech, o podcast de tecnologia do Grupo Primo. ",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/PrimoTech-logo.jpg",
+    "link": "https://www.youtube.com/@primotech"
+  },
+  {
+    "nome": "Código Fonte TV",
+    "descricao": "Temos a missão de ajudar a todos que queiram trabalhar com TI.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/codigofontetv-logo.jpg",
+    "link": "https://www.youtube.com/@codigofontetv"
+  },
+  {
+    "nome": "Adobe XD",
+    "descricao": "Um aplicativo de design e prototipagem tudo em um.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/adobexd-logo.png"
+  },
+  {
+    "nome": "Attekita Dev",
+    "descricao": "Engenheira de software especialista em aplicativos e games.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/AttekitaDev-logo.jpg",
+    "link": "https://www.youtube.com/@attekitadev"
+  },
+  {
+    "nome": "Muzli",
+    "descricao": "Extensão do Chrome que fornece acesso rápido a tudo o que é quente e simplesmente incrível no design.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/Muzli-logo.png",
+    "link": "https://www.checklist.design"
+  },
+  {
+    "nome": "404 Illustrations",
+    "descricao": "Ilustrações Royalty Free para 404 páginas.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/404Illustrations-logo.jpg",
+    "link": "https://error404.fun"
+  },
+  {
+    "nome": "Ouch!",
+    "descricao": "Ilustrações vetoriais gratuitas para classificar seu projeto.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/ouch-logo.png",
+    "link": "https://icons8.com/illustrations"
+  },
+  {
+    "nome": "Absurd Design",
+    "descricao": "Ilustrações absurdas que fazem sentido.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/AbsurdDesign-logo.png",
+    "link": "https://absurd.design"
+  },
+  {
+    "nome": "illlustrations",
+    "descricao": "Um grande conjunto de biblioteca de ilustrações de código aberto.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/Illlustrations-logo.jpg",
+    "link": "https://illlustrations.co"
+  },
+  {
+    "nome": "Open Peeps",
+    "descricao": "Uma biblioteca de ilustração de pessoas desenhadas à mão.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/OpenPeeps-logo.avif",
+    "link": "https://www.openpeeps.com"
+  },
+  {
+    "nome": "Blush",
+    "descricao": "Ilustrações para todos.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/blush-logo.avif",
+    "link": "https://blush.design/pt"
+  },
+  {
+    "nome": "Control Rocks",
+    "descricao": "108 ilustrações planas gratuitas com caracteres personalizáveis.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/ControlRocks-logo.png",
+    "link": "https://control.rocks/"
+  },
+  {
+    "nome": "DrawKit",
+    "descricao": "Belas ilustrações para você usar em seu próximo site.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/drawkit-logo.png",
+    "link": "https://www.drawkit.com"
+  },
+  {
+    "nome": "Open Doodles",
+    "descricao": "Um conjunto gratuito de ilustrações superficiais",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/opendoodles-logo.avif",
+    "link": "https://www.opendoodles.com"
+  },
+  {
+    "nome": "Avataaars",
+    "descricao": "Misture e combine a Biblioteca de Ilustração dos Avatares.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/avataaars-logo.jpg",
+    "link": "https://avataaars.com"
+  },
+  {
+    "nome": "Dribbble",
+    "descricao": "Dribbble é uma comunidade online para a exposição de conteúdo artístico.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/dribbble-logo.png"
+  },
+  {
+    "nome": "Curls",
+    "descricao": "Paletas de cores cuidadosamente criadas e fáceis de usar.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/curls-logo.png",
+    "link": "https://culrs.com"
+  },
+  {
+    "nome": "Brand Colors",
+    "descricao": "Maior coleção de códigos de cores oficiais da marca.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/brandcolors.logo.jpg",
+    "link": "https://brandcolors.net/"
+  },
+  {
+    "nome": "LOL Colors",
+    "descricao": "Inspiração de paleta de cores com curadoria",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/lolcolors-logo.png",
+    "link": "https://www.webdesignrankings.com"
+  },
+  {
+    "nome": "Pigment",
+    "descricao": "Uma maneira única de gerar cores frescas e vibrantes.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/pigment-logo.jpg",
+    "link": "https://pigment.shapefactory.co"
+  },
+  {
+    "nome": "Color Claim",
+    "descricao": "Coleção de cores exclusivas para seus projetos futuros.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/colorclaim-logo.jpg",
+    "link": "https://vanschneider.com/colors"
+  },
+  {
+    "nome": "Duo",
+    "descricao": "Coleção de combinações de cores com curadoria da web.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/duo-logo.png",
+    "link": "https://duo.alexpate.uk"
+  },
+  {
+    "nome": "Adobe Colour",
+    "descricao": "Navegue milhares de combinações de cores.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/adobecolor-logo.jpg",
+    "link": "https://color.adobe.com/pt/explore"
+  },
+  {
+    "nome": "Colorsinspo",
+    "descricao": "Tudo em um recurso para encontrar cores.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/colorsinspo-logo.jpg",
+    "link": "https://colorsinspo.com/"
+  },
+  {
+    "nome": "Color Hunt",
+    "descricao": "Plataforma gratuita e aberta para inspiração colorida.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/colorhunt-logo.gif",
+    "link": "https://colorhunt.co/"
+  },
+  {
+    "nome": "Khroma",
+    "descricao": "Usa uma IA para aprender quais cores você gosta e cria paletas ilimitadas.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/khroma-logo.jpg",
+    "link": "https://www.khroma.co/"
+  },
+  {
+    "nome": "Sip",
+    "descricao": "Mac App para coletar, organizar e compartilhar suas cores.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/sip-logo.png",
+    "link": "https://sipapp.io/"
+  },
+  {
+    "nome": "Coolors",
+    "descricao": "Gerador de esquemas de cores rápidas.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/coolors-logo.png",
+    "link": "https://coolors.co/"
+  },
+  {
+    "nome": "Eva Color Generator",
+    "descricao": "Gerador de cores complementares alimentados por aprendizado profundo.",
+    "categoria": "Cores",
+    "imagem": "sitesImagens/evadesignsystem-logo.gif",
+    "link": "https://colors.eva.design/"
+  },
+  {
+    "nome": "Hipsters.Tech",
+    "descricao": "Aborda as maiores dúvidas do universo de tecnologia como: Front-End, Startup, Design, UX, Business.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/hipsters-logo.png",
+    "link": "https://www.hipsters.tech"
+  },
+  {
+    "nome": "Cabeça de Lab",
+    "descricao": "É o podcast do Luizalabs, o laboratório de inovação e tecnologia do Magalu.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/cabecadelab-logo.jpg",
+    "link": "https://www.cabecadelab.com.br"
+  },
+  {
+    "nome": "Dev na Estrada",
+    "descricao": "Podcast sobre front-end, back-end e desenvolvimento web.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/devnaestrada-logo.png",
+    "link": "https://devnaestrada.com.br"
+  },
+  {
+    "nome": "Data Hackers Podcast",
+    "descricao": "Todo mês eles trazem profissionais da área falando sobre novidades, ferramentas, mercado de trabalho.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/datahackers-logo.png",
+    "link": "https://www.datahackers.com.br/podcast"
+  },
+  {
+    "nome": "Carreira Sem Fronteiras",
+    "descricao": "As histórias de brasileiros(as) que saíram do Brasil para viver e trabalhar em outro país.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/carreirasemfronteira-logo.png",
+    "link": "https://www.carreirasemfronteiras.com.br"
+  },
+  {
+    "nome": "Pizza de dados",
+    "descricao": "O Pizza de Dados é uma iniciativa de 3 apaixonados por ciência de dados.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/pizzadedados-logo.png",
+    "link": "https://pizzadedados.com"
+  },
+  {
+    "nome": "DevShow",
+    "descricao": "DevShow é um bate-papo descontraído sobre o universo do desenvolvimento de software.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/devshow-logo.jpg",
+    "link": "https://devshow.com.br"
+  },
+  {
+    "nome": "PodProgramar",
+    "descricao": "É feito por duas programadoras, Ana Eliza e Jéssica Zanelato. trazem informações sobre o universo da programação",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/podporgramar-logo.jpg",
+    "link": "https://podprogramar.com.br"
+  },
+  {
+    "nome": "FalaDev",
+    "descricao": "É um podcast da Rockedseat onde três programadores conversam sobre maturidade na profissão.",
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/faladev-logo.jpg",
+    "link": "https://www.youtube.com/playlist?list=PL85ITvJ7FLoivA_1YoBrRJbNWajIoR7Os"
+  },
+  {
+    "nome": "Coverr",
+    "descricao": "Baixe a royalty grátis de vídeo imagens de estoque.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/coverr-logo.jpg",
+    "link": "https://coverr.co"
+  },
+  {
+    "nome": "UserStock",
+    "descricao": "Biblioteca para Avatares de Usuário para usar em sua interface do usuário.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/userstock-logo.jpg",
+    "link": "https://userstock.io/"
+  },
+  {
+    "nome": "Zeplin",
+    "descricao": "Designs de transferência com especificações, ativos e trechos de código.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/Zeplin-logo.png",
+    "link": "https://zeplin.io"
+  },
+  {
+    "nome": "Generated Photos",
+    "descricao": "Fotos modelo exclusivas e sem preocupações",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/generatedphotos-logo.jpg",
+    "link": "https://generated.photos/"
+  },
+  {
+    "nome": "Pexels",
+    "descricao": "Fotos e vídeos de estoque compartilhados por criadores talentosos.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/pexels-logo.jpg",
+    "link": "https://www.pexels.com/pt-br/"
+  },
+  {
+    "nome": "Burst",
+    "descricao": "Belas imagens sem direitos autorais alimentados pelo Shopify.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/burst-logo.jpg",
+    "link": "https://burst.shopify.com/"
+  },
+  {
+    "nome": "Mixkit",
+    "descricao": "Ativos grátis para o seu próximo projeto de vídeo.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/mixkit-logo.jpg",
+    "link": "https://mixkit.co/"
+  },
+  {
+    "nome": "Streamline",
+    "descricao": "Mais de 30.000 ícones.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/streamlinehq-logo.png",
+    "link": "https://www.streamlinehq.com"
+  },
+  {
+    "nome": "Noun Project",
+    "descricao": "Mais de 2 milhões de ícones com curadoria, criados por uma comunidade global.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/nounproject-logo.png",
+    "link": "https://thenounproject.com/"
+  },
+  {
+    "nome": "CSS.gg",
+    "descricao": "Ícones de interface do usuário CSS, SVG e figma de código aberto",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/css-logo.png",
+    "link": "https://css.gg/"
+  },
+  {
+    "nome": "Boxicons",
+    "descricao": "Conjunto de ícones vetoriais cuidadosamente criados e simples.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/boxicons-logo.jpg",
+    "link": "https://boxicons.com/"
+  },
+  {
+    "nome": "Iconset",
+    "descricao": "Gerente de ícone SVG de plataforma grátis.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/iconset-logo.png",
+    "link": "https://iconset.io/"
+  },
+  {
+    "nome": "Polaris Icons",
+    "descricao": "Uma coleção de ícones simples e informativos do sistema de design do Shopify.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/polarisicons-logo.jpg",
+    "link": "https://polaris.shopify.com/icons"
+  },
+  {
+    "nome": "Feather Icons",
+    "descricao": "Ícones de código aberto simplesmente lindos.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/feathericons-logo.jpg",
+    "link": "https://feathericons.com/"
+  },
+  {
+    "nome": "Remix",
+    "descricao": "Símbolos de sistema de estilo neutro de código aberto.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/remixicon-logo.jpg",
+    "link": "https://remixicon.com/"
+  },
+  {
+    "nome": "Icons8",
+    "descricao": "126,300 icones gratis.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/icons8-logo.png",
+    "link": "https://icons8.com/icons"
+  },
+  {
+    "nome": "Font Awesome",
+    "descricao": "O conjunto de ícones mais populares da Web e o kit de ferramentas.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/fontawesome-logo.png",
+    "link": "https://icons8.com/icons"
+  },
+  {
+    "nome": "Iconoir",
+    "descricao": "Uma coleção de 2059 SVG Icones.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/iconoir-logo.png",
+    "link": "https://iconoir.com/"
+  },
+  {
+    "nome": "Evericons",
+    "descricao": "Coleção de mais de 460 ícones bem trabalhados.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/evericons-logo.jpg",
+    "link": "http://www.evericons.com/"
+  },
+  {
+    "nome": "ICONSVG",
+    "descricao": "Ícones rápidos personalizáveis ​​para seus projetos.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/iconssvg-logo.jpeg",
+    "link": "https://iconsvg.xyz/"
+  },
+  {
+    "nome": "Line Icons",
+    "descricao": "Ícones de linha artesanais de 2000+ para interfaces de usuário modernas",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/lineicons-logo.png",
+    "link": "https://lineicons.com"
+  },
+  {
+    "nome": "Heroicons",
+    "descricao": "Ícones de código aberto dos criadores do Tailwind CSS",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/heroicons-logo.png",
+    "link": "https://heroicons.dev/"
+  },
+  {
+    "nome": "Sketch",
+    "descricao": "Sketch é a ferramenta de design mais popular para designers de UX/UI",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/sketch-logo.png"
+  },
+  {
+    "nome": "Material Icons",
+    "descricao": "Símbolos deliciosos e lindamente criados para ações e itens comuns.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/materialicons-logo.png",
+    "link": "https://fonts.google.com/icons"
+  },
+  {
+    "nome": "Ionicons",
+    "descricao": "Ícones de código aberto lindamente criados.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/ionicons-logo.jpg",
+    "link": "https://ionic.io/ionicons"
+  },
+  {
+    "nome": "Eva",
+    "descricao": "480 ícones deliciosos disponíveis gratuitamente.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/evaicons-logo.jpg",
+    "link": "https://akveo.github.io/eva-icons/"
+  },
+  {
+    "nome": "Iconscout",
+    "descricao": "Ícones de alta qualidade, ilustrações e fotos de estoque.",
+    "categoria": "Icones",
+    "imagem": "sitesImagens/iconscout-logo.png",
+    "link": "https://iconscout.com/"
+  },
+  {
+    "nome": "UI Sources",
+    "descricao": "Interações dos aplicativos mais bem projetados e de bilheteria superior.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/uisources-logo.jpg",
+    "link": "https://www.uisources.com/"
+  },
+  {
+    "nome": "Nicely done",
+    "descricao": "Produtos e projetos de padrões inspiração.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/nicelydone-logo.png",
+    "link": "https://nicelydone.club/"
+  },
+  {
+    "nome": "UI Movement",
+    "descricao": "A melhor inspiração de design da interface do usuário, todos os dias.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/uimovement-logo.png",
+    "link": "https://screenlane.com/"
+  },
+  {
+    "nome": "Awwwards",
+    "descricao": "Prêmios para design, criatividade e inovação.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/awwwards-logo.png",
+    "link": "https://www.awwwards.com/"
+  },
+  {
+    "nome": "Behance",
+    "descricao": "Encontre inspiração em outros designers.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/behance-logo.png",
+    "link": "https://www.behance.net/"
+  },
+  {
+    "nome": "Best Website Gallery",
+    "descricao": "Inspiração de site escolhida a dedo.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/bestwebsite-logo.jpg",
+    "link": "https://bestwebsite.gallery/"
+  },
+  {
+    "nome": "One Page Love",
+    "descricao": "Sites de uma página, modelos e recursos.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/onepagelove-logo.jpg",
+    "link": "https://onepagelove.com/"
+  },
+  {
+    "nome": "Lapa Ninja",
+    "descricao": "Página de destino Inspiração de design de toda a web.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/lapaninja-logo.jpg",
+    "link": "https://www.lapa.ninja/"
+  },
+  {
+    "nome": "iOS Icon Gallery",
+    "descricao": "Mostrando belos designs de ícones do iOS.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/iosicongallery-logo.png",
+    "link": "https://www.iosicongallery.com/"
+  },
+  {
+    "nome": "H69.Design",
+    "descricao": "Lista de pouso em todo o país de desembarque em toda a web.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/h69design-logo.jpg",
+    "link": "https://www.h69.design/"
+  },
+  {
+    "nome": "UI Jar",
+    "descricao": "Inspiração de design para seus projetos.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/uijar-logo.png",
+    "link": "https://uijar.com/"
+  },
+  {
+    "nome": "Collect UI",
+    "descricao": "Inspiração diária coletada do arquivo diário da interface do usuário e além.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/collectui-logo.png",
+    "link": "https://collectui.com/"
+  },
+  {
+    "nome": "Land Book",
+    "descricao": "Sites para ajudar a encontrar inspiração e motivação.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/landbook-logo.png",
+    "link": "https://land-book.com/"
+  },
+  {
+    "nome": "Dark Mode Design",
+    "descricao": "Mostrando os sites de modo escuro mais lindamente projetados.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/darkmodedesign-logo.png",
+    "link": "https://www.darkmodedesign.com/"
+  },
+  {
+    "nome": "Really Good Emails",
+    "descricao": "Coleção com curadoria de projetos de e -mail notáveis.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/reallygoodemails-logo.png",
+    "link": "https://www.darkmodedesign.com/"
+  },
+  {
+    "nome": "Site Inspire",
+    "descricao": "Mostra do melhor design da Web e interativo.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/reallygoodemails-logo.png",
+    "link": "https://www.siteinspire.com/"
+  },
+  {
+    "nome": "Minimal Gallery",
+    "descricao": "Coleção diária de curadoria e escolhida a dedo de inspiração mínima de web design.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/minimal-logo.jpg",
+    "link": "https://www.siteinspire.com/"
+  },
+  {
+    "nome": "Bestfolios",
+    "descricao": "Portfólios de designer de UI/UX e muito mais.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/bestfolios-logo.png",
+    "link": "https://www.bestfolios.com/home"
+  },
+  {
+    "nome": "Ecomm.design",
+    "descricao": "Galeria de design de sites de comércio eletrônico.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/ecommdesign-logo.jpg",
+    "link": "https://ecomm.design/"
+  },
+  {
+    "nome": "Pattern Collect",
+    "descricao": "Uma galeria de padrões com curadoria de designers e ilustradores incríveis.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/patterncollect-logo.jpg",
+    "link": "https://www.codeinwp.com/pattern-collection/"
+  },
+  {
+    "nome": "Siiimple",
+    "descricao": "Coleção de sites.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/siiimple-logo.png",
+    "link": "https://www.codeinwp.com/pattern-collection/"
+  },
+  {
+    "nome": "Panda",
+    "descricao": "Mantenha-se atualizado com fontes de design e notícias.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/usepanda-logo.png",
+    "link": "https://usepanda.com/"
+  },
+  {
+    "nome": "Httpster",
+    "descricao": "Recursos de inspiração mostrando sites totalmente de balanço.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/httpster-logo.jpg",
+    "link": "https://httpster.net/"
+  },
+  {
+    "nome": "Scrnshts",
+    "descricao": "Coleção com curadoria de capturas de tela da App Store.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/scrnshts-logo.jpg",
+    "link": "https://scrnshts.club/"
+  },
+  {
+    "nome": "UserOnboard",
+    "descricao": "Fonte para desmontagens de integração de usuários.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/useronboard-logo.png",
+    "link": "https://www.useronboard.com/user-onboarding-teardowns/"
+  },
+  {
+    "nome": "Abstract",
+    "descricao": "Controle de versão para Sketch.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/Abstract-logo.png",
+    "link": "https://www.youtube.com/@primotech"
+  },
+  {
+    "nome": "Typewolf",
+    "descricao": "Ajuda os designers a escolher a combinação de fontes perfeita.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/typewolf-logo.png",
+    "link": "https://www.typewolf.com/"
+  },
+  {
+    "nome": "Typo/graphic",
+    "descricao": "Conecte-se a diferentes culturas através do design de pôsteres.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/typographicposters-logo.png",
+    "link": "https://www.typographicposters.com/"
+  },
+  {
+    "nome": "MyFonts",
+    "descricao": "A maior coleção de fontes do mundo para impressão, produtos e telas.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/myfonts-logo.jpg",
+    "link": "https://www.myfonts.com/"
+  },
+  {
+    "nome": "Speak Human",
+    "descricao": "Gerar microcópia centrada humana para todos os fins.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/speakhuman-logo.jpg",
+    "link": "https://www.speakhuman.today/"
+  },
+  {
+    "nome": "Adobe Fonts",
+    "descricao": "Tem milhares de fontes bonitas.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/fontsadobe-logo.png",
+    "link": "https://fonts.adobe.com/"
+  },
+  {
+    "nome": "Fonts in Use",
+    "descricao": "Um arquivo pesquisável de design tipográfico.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/fontsinuse-logo.png",
+    "link": "https://fontsinuse.com/"
+  },
+  {
+    "nome": "Font Squirrel",
+    "descricao": "Fontes de alta qualidade e legitimamente livres.",
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/fontsquirrel-logo.png",
+    "link": "https://www.fontsquirrel.com/"
+  },
+  {
+    "nome": "Fonts Arena",
+    "descricao": "Fontes e alternativas gratuitas para fontes premium.",   
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/fontsarena-logo.png",
+    "link": "https://fontsarena.com"
+  },
+  {
+    "nome": "Font Fabric",
+    "descricao": "Tipo de alta qualidade, caligrafia e letras.",   
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/fontfabric-logo.png",
+    "link": "https://www.fontfabric.com/free-fonts/"
+  },
+  {
+    "nome": "Conic Style",
+    "descricao": "Gradientes cônicos simples e simples.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/conicstyle-logo.jpg",
+    "link": "https://www.conic.style/"
+  },
+  {
+    "nome": "MESH",
+    "descricao": "Crie lindos gradientes diretamente em seu navegador.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/meshgradient-logo.jpg",
+    "link": "https://meshgradient.com"
+  },
+  {
+    "nome": "Gradienta",
+    "descricao": "Gradientes CSS multicoloridos, downloads JPG, 100% grátis.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/gradienta-logo.jpg",
+    "link": "https://gradienta.io/"
+  },
+  {
+    "nome": "Gradient Magic",
+    "descricao": "Uma galeria de gradientes CSS fantásticos e únicos.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/gradientmagic-logo.jpg",
+    "link": "https://www.gradientmagic.com/"
+  },
+  {
+    "nome": "Cool Backgrounds",
+    "descricao": "Explore uma seleção lindamente com curadoria de fundos frios.",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/coolbackgrounds-logo.jpg",
+    "link": "https://www.gradientmagic.com/"
+  },
+  {
+    "nome": "uiGradients",
+    "descricao": "Explore uma seleção lindamente com curadoria de fundos frios.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/uigradients-logo.jpg",
+    "link": "https://uigradients.com/"
+  },
+  {
+    "nome": "CSS Gradient",
+    "descricao": "Este site permite criar um fundo de gradiente colorido.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/cssgradient-logo.jpg",
+    "link": "https://cssgradient.io/"
+  },
+  {
+    "nome": "Blend",
+    "descricao": "Crie e personalize belos gradientes CSS3.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/blend-logo.jpg",
+    "link": "http://www.colinkeany.com/blend/"
+  },
+  {
+    "nome": "Web Gradients",
+    "descricao": "Coleção gratuita de 180 gradientes lineares que você pode usar.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/webgradients-logo.jpg",
+    "link": "https://webgradients.com/"
+  },
+  {
+    "nome": "ColorSpace",
+    "descricao": "Você pode encontrar o esquema de cores correspondente perfeito para o seu próximo projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/colorspace-logo.jpg",
+    "link": "https://mycolor.space/"
+  },
+  {
+    "nome": "SaaS landing",
+    "descricao": "Descubra os melhores exemplos de 720 páginas de destino.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/saaslandingpage-logo.jpg",
+    "link": "https://saaslandingpage.com/"
+  },
+  {
+    "nome": "Checklist.design",
+    "descricao": "Uma coleção das melhores práticas de UX e UI.",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/checklist.design-logo.png",
+    "link": "https://www.checklist.design"
+  },
+  {
+    "nome": "Storyset",
+    "descricao": "Incríveis ilustrações personalizáveis gratuitas.",   
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/storyset-logo.png",
+    "link": "https://storyset.com/"
+  },
+  {
+    "nome": "ManyPixels",
+    "descricao": "Mais de 2.500 ilustrações para potencializar seus designs.",   
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/manypixels-logo.jpg",
+    "link": "https://www.manypixels.co/gallery"
+  },
+  {
+    "nome": "Shapefest",
+    "descricao": "Uma enorme biblioteca de objetos 3D gratuitos para web design.",   
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/shapefest-logo.jpg",
+    "link": "https://www.shapefest.com"
+  },
+  {
+    "nome": "Iconsax",
+    "descricao": "Iconsax são os ícones oficiais do framework Vuesax.",   
+    "categoria": "Icones",
+    "imagem": "sitesImagens/iconsax-logo.png",
+    "link": "https://iconsax.io"
+  },
+  {
+    "nome": "Flaticon",
+    "descricao": "Baixe ícones e adesivos gratuitos para seus projetos.",   
+    "categoria": "Icones",
+    "imagem": "sitesImagens/flaticon-logo.png",
+    "link": "https://www.flaticon.com"
+  },
+  {
+    "nome": "Icomoon",
+    "descricao": "IcoMoon fornece um pacote de ícones vetoriais.",   
+    "categoria": "Icones",
+    "imagem": "sitesImagens/icomoon-logo.png",
+    "link": "https://icomoon.io/#icons"
+  },
+  {
+    "nome": "GameIcons",
+    "descricao": "Uma coleção cada vez maior de ícones de jogos gratuitos.",   
+    "categoria": "Icones",
+    "imagem": "sitesImagens/gameicons-logo.png",
+    "link": "https://game-icons.net"
+  },
+  {
+    "nome": "InVision Studio",
+    "descricao": "Transforme as telas em protótipos interativos.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/gameicons-logo.png",
+    "link": "https://www.invisionapp.com/"
+  },
+  {
+    "nome": "Principle",
+    "descricao": "Princípio facilita o design de interfaces de usuário animadas e interativas.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/principleformac-logo.png",
+    "link": "https://principleformac.com/"
+  },
+  {
+    "nome": "Framer",
+    "descricao": "Um produto poderoso que combina o design e o desenvolvimento.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/framer-logo.png",
+    "link": "https://www.framer.com"
+  },
+  {
+    "nome": "ProtoPie",
+    "descricao": "Prototipagem interativa para os produtos digitais.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/protopie-logo.jpg",
+    "link": "https://www.protopie.io/"
+  },
+  {
+    "nome": "Marvel",
+    "descricao": "Transforme esboços, maquetes e wireframes em protótipos interativos.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/marvelapp-logo.png",
+    "link": "https://marvelapp.com"
+  },
+  {
+    "nome": "Proto.io",
+    "descricao": "Crie protótipos de alta fidelidade totalmente interativos.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/proto.io-logo.jpg",
+    "link": "https://proto.io/"
+  },
+  {
+    "nome": "Bravo Studio",
+    "descricao": "Transforme protótipos de figma em aplicativos nativos de iOS e Android.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/bravostudio-logo.jpg",
+    "link": "https://www.bravostudio.app/"
+  },
+  {
+    "nome": "Phase",
+    "descricao": "Design e protótipo sites e aplicativos intuitivamente.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/phase-logo.png",
+    "link": "https://phase.com/"
+  },
+  {
+    "nome": "Flinto",
+    "descricao": "Flinto é um aplicativo Mac usado pelos principais designers do mundo.",   
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/flinto-logo.png",
+    "link": "https://www.flinto.com/"
+  },
+  {
+    "nome": "Animista",
+    "descricao": "Reúne uma centena de efeitos CSS prontos.",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/animista-logo.jpg",
+    "link": "https://animista.net"
+  },
+  {
+    "nome": "Box Shadow Generator",
+    "descricao": "Gerador de gradient, noise, box shadow e border-radius.",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/cssmatic-logo.png",
+    "link": "https://www.cssmatic.com"
+  },
+  {
+    "nome": "CSS triangle generator",
+    "descricao": "Crie sua seta com esse gerador.",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/csstrianglegenerator-logo.png",
+    "link": "http://apps.eky.hk/css-triangle-generator/"
+  },
+  {
+    "nome": "CSS3 Generator",
+    "descricao": "Gerador de várias propriedades do css.",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/css3generator-logo.png",
+    "link": "https://css3generator.com"
+  },
+  {
+    "nome": "Border Radius Generator",
+    "descricao": "Gerador de border-radius",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/borderradius-logo.png",
+    "link": "https://border-radius.com"
+  },
+  {
+    "nome": "CSS Opacity Generator",
+    "descricao": "Gerador de opacidade ",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/cssopacitygenerator-logo.png",
+    "link": "https://www.elbgoods.de/tools/en-css-opacity-generator/"
+  },
+  {
+    "nome": "CSS Menu Generator",
+    "descricao": "Gerador de menu ",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/cssmenugenerator-logo.png",
+    "link": "https://www.cssportal.com/css3-menu-generator/"
+  },
+  {
+    "nome": "Image Slider Generator",
+    "descricao": "Gerador de slider ",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/imageslidergenerator-logo.png",
+    "link": "https://imageslidermaker.com/v2"
+  },
+  {
+    "nome": "CSS Buttons Generator",
+    "descricao": "Gerador de butão",   
+    "categoria": "Geradores",
+    "imagem": "sitesImagens/cssbuttonsgenerator-logo.png",
+    "link": "https://css3buttongenerator.com"
+  },
+  {
+    "nome": "Gradients Party",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/gradientsparty-logo.png",
+    "link": "https://gradients.party"
+  },
+  {
+    "nome": "Figma",
+    "descricao": "Figma é um editor gráfico de vetor e prototipagem de projetos de design.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/figma-logo.gif"
+  },
+  {
+    "nome": "CoolHue",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/coolhue-logo.png",
+    "link": "https://webkul.github.io/coolhue/"
+  },
+  {
+    "nome": "huesnap",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/coolhue-logo.png",
+    "link": "https://www.huesnap.com"
+  },
+  {
+    "nome": "Web Gradients",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/webgradients-logo.jpg",
+    "link": "https://webgradients.com"
+  },
+  {
+    "nome": "Material Palette",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Cores",
+    "imagem": "sitesImagens/webgradients-logo.jpg",
+    "link": "https://www.materialpalette.com"
+  },
+  {
+    "nome": "Paletton",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Cores",
+    "imagem": "sitesImagens/paletton-logo.jpg",
+    "link": "https://paletton.com"
+  },
+  {
+    "nome": "ColorDrop",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Cores",
+    "imagem": "sitesImagens/paletton-logo.jpg",
+    "link": "https://colordrop.io"
+  },
+  {
+    "nome": "0to255",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Cores",
+    "imagem": "sitesImagens/0to255-logo.png",
+    "link": "https://0to255.com"
+  },
+  {
+    "nome": "Eggradients",
+    "descricao": "Bonitos gradientes para seu projeto.",   
+    "categoria": "Gradientes",
+    "imagem": "sitesImagens/eggradients-logo.png",
+    "link": "https://www.eggradients.com"
+  },
+  {
+    "nome": "Page collective",
+    "descricao": "Inspire -se e acompanhe as mais recentes tendências de design da página de destino.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/pagecollective-logo.jpg",
+    "link": "https://pagecollective.com"
+  },
+  {
+    "nome": "Html5 UP",
+    "descricao": "Totalmente responsivo · construído em inteligência.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/html5up-logo.png",
+    "link": "https://html5up.net"
+  },
+  {
+    "nome": "htmlrev",
+    "descricao": "Modelos de página de destino HTML abaixo e usá -los para salvar o tempo de design e desenvolvimento.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/html5up-logo.png",
+    "link": "https://htmlrev.com"
+  },
+  {
+    "nome": "Screenlane",
+    "descricao": "A mais recente inspiração para design de interface do usuário móvel em sua caixa de entrada toda semana, de graça.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/screenlane-logo.png",
+    "link": "https://screenlane.com"
+  },
+  {
+    "nome": "Screenlane",
+    "descricao": "A mais recente inspiração para design de interface do usuário móvel em sua caixa de entrada toda semana, de graça.",
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/screenlane-logo.png",
+    "link": "https://screenlane.com"
+  },
+  {
+    "nome": "Media Queries",
+    "descricao": "A mais recente inspiração para design de interface do usuário móvel em sua caixa de entrada toda semana, de graça.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/mediaqueries-logo.png",
+    "link": "https://mediaqueri.es"
+  },
+  {
+    "nome": "Nicepage",
+    "descricao": "10,000+ WordPress Themes gratis",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/nicepage-logo.jpg",
+    "link": "https://nicepage.com/wordpress-themes"
+  },
+  {
+    "nome": "Elementor Library",
+    "descricao": "Mais de 100 sites para pegar como inspiração.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/elementorlibrary-logo.png",
+    "link": "https://elementor.com/library/"
+  },
+  {
+    "nome": "Zyro",
+    "descricao": "Templates perfeitos, edição descomplicada, fácil de verdade.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/zyro-logo.png",
+    "link": "https://zyro.com/br/templates"
+  },
+  {
+    "nome": "UI store Design",
+    "descricao": "650 kits de interface de interface do usuário gratuitos para seus projetos da vida real.",   
+    "categoria": "Inspiração",
+    "imagem": "sitesImagens/uistore-logo.jpg",
+    "link": "https://www.uistore.design"
+  },
+  {
+    "nome": "Stockio",
+    "descricao": "650 kits de interface de interface do usuário gratuitos para seus projetos da vida real.",   
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/stockio-logo.jpg",
+    "link": "https://www.stockio.com/free-photos/"
+  },
+  {
+    "nome": "Stockio",
+    "descricao": "650 kits de interface de interface do usuário gratuitos para seus projetos da vida real.",   
+    "categoria": "Fontes",
+    "imagem": "sitesImagens/stockio-logo.jpg",
+    "link": "https://www.stockio.com/free-fonts/"
+  },
+  {
+    "nome": "Vector Portal",
+    "descricao": "650 kits de interface de interface do usuário gratuitos para seus projetos da vida real.",   
+    "categoria": "Icones",
+    "imagem": "sitesImagens/vectorportal-logo.jpg",
+    "link": "https://vectorportal.com"
+  },
+  {
+    "nome": "Lukaszadam",
+    "descricao": "Atraia mais visitantes e aumente suas conversões com ilustrações SVG personalizadas.",   
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/lukaszadam-logo.jpg",
+    "link": "https://lukaszadam.com/illustrations"
+  },
+  {
+    "nome": "Delesign",
+    "descricao": "Atraia mais visitantes e aumente suas conversões com ilustrações SVG personalizadas.",   
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/delesign-logo.png",
+    "link": "https://delesign.com/free-designs/graphics/illustration"
+  },
+  {
+    "nome": "Black illustrations",
+    "descricao": "Belas ilustrações de pessoas negras para o seu próximo projeto digital.",   
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/blackillustrations-logo.jpg",
+    "link": "https://www.blackillustrations.com"
+  },
+  {
+    "nome": "Programador BR",
+    "descricao": "Belas ilustrações de pessoas negras para o seu próximo projeto digital.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/programadorbr-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCrdgeUeCll2QKmqmihIgKBQ"
+  },
+  {
+    "nome": "Diolinux",
+    "descricao": "Belas ilustrações de pessoas negras para o seu próximo projeto digital.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/diolinux-logo.jpg",
+    "link": "https://www.youtube.com/@Diolinux/featured"
+  },
+  {
+    "nome": "Universo Programado",
+    "descricao": "Belas ilustrações de pessoas negras para o seu próximo projeto digital.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/universoprogramado-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCf_kacKyoRRUP0nM3obzFbg"
+  },
+  {
+    "nome": "Lucas Montano",
+    "descricao": "Carreira em Tecnologia",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/lucasmontano-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCyHOBY6IDZF9zOKJPou2Rgg"
+  },
+  {
+    "nome": "TekZoom",
+    "descricao": "O canal do TekZoom surgiu para compartilhar conteúdos sobre tecnologia, programação.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/tekzoom-logo.jpg",
+    "link": "https://www.youtube.com/@tekzoom"
+  },
+  {
+    "nome": "Rodrigo Branas",
+    "descricao": "é arquiteto de software, professor, autor e palestrante com mais de 20 anos de experiência.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/rodrigobranas-logo.jpg",
+    "link": "https://www.youtube.com/@RodrigoBranas"
+  },
+  {
+    "nome": "DevPleno",
+    "descricao": "Dicas, sacadas e tutoriais para você tornar-se um profissional completo ou um devPleno.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/devpleno-logo.jpg",
+    "link": "https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww"
+  },
+  {
+    "nome": "CodeWithChris",
+    "descricao": "O maior canal tutorial de iOS dedicado no YouTube! Aprenda a fazer um aplicativo com Swift, Swiftui e Xcode.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/codewithchris-logo.jpg",
+    "link": "https://www.youtube.com/channel/UC07JWf9A0B1scApbS1Te7Ww"
+  },
+  {
+    "nome": "Programação Dinâmica",
+    "descricao": "Somos Kizzy e Hallison, e temos uma missão: ajudar mais pessoas a terem acesso a educação de qualidade.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/programaçãodinamica-logo.jpg",
+    "link": "https://www.youtube.com/@pgdinamica"
+  },
+  {
+    "nome": "PogCast",
+    "descricao": "O único podcast orintado a gambiarra.",   
+    "categoria": "Podcasts",
+    "imagem": "sitesImagens/pogcastoficial-logo.jpg",
+    "link": "https://www.youtube.com/@PogCastOficial"
+  },
+  {
+    "nome": "André Gomes - Ágil & Projetos",
+    "descricao": "Tudo sobre Ágil, Kanban, Scrum e Business Agility",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/andrégomes-logo.jpg",
+    "link": "https://www.youtube.com/@AndreGomesagil"
+  },
+  {
+    "nome": "Michelli Brito",
+    "descricao": "Conteúdos de programação, arquitetura de software e carreira em TI.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/michellibrito-logo.jpg",
+    "link": "https://www.youtube.com/channel/UC2WbG8UgpPaLcFSNJYwtPow"
+  },
+  {
+    "nome": "Rebeloper - Rebel Developer",
+    "descricao": "Meu canal é sobre ensinar a você como fazer um aplicativo em Swiftui e a estrutura combinada.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/rebeloper-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCK88iDIf2V6w68WvC-k7jcg"
+  },
+  {
+    "nome": "Escola para Desenvolvedores",
+    "descricao": "Meu canal é sobre ensinar a você como fazer um aplicativo em Swiftui e a estrutura combinada.",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/escolaparadesenvolvedores-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCIygChyGBq492KJuUyYHTkQ"
+  },
+  {
+    "nome": "CodandoTV",
+    "descricao": "O CodandoTV tem a proposta de propagar um conteúdo rico e diverso do universo de tecnologia!",   
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/codandotv-logo.jpg",
+    "link": "https://www.youtube.com/@CodandoTV"
+  },
+  {
+    "nome": "UXNOW / Daniel Furtado",
+    "descricao": " Um canal sobre Experiência do Usuário (UX).",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/uxnow-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCgfaifzmqadwKyCd0lagylQ"
+  },
+  {
+    "nome": "Deivid Willyan | Flutter",
+    "descricao": "O CodandoTV tem a proposta de propagar um conteúdo rico e diverso do universo de tecnologia!",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/deividwillyan-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCMrbEhuGzf3NcD79gQGnIZw"
+  },
+  {
+    "nome": "Pasquadev",
+    "descricao": "Nesse canal você vai encontrar conteúdos sobre programação e cotidiano na Alemanha / Europa.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/pasquadev-logo.jpg",
+    "link": "https://www.youtube.com/@pasquadev"
+  },
+  {
+    "nome": "Fabio Akita",
+    "descricao": "Tudo sobre tecnologia e mais um pouco.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/fabioakita-logo.jpg",
+    "link": "https://www.youtube.com/user/AkitaOnRails"
+  },
+  {
+    "nome": "Laboratório da Julia",
+    "descricao": "Por aqui eu faço projetinhos maneiros colocando a mão na massa com tecnologia.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/laboratoriodajulia-logo.jpg",
+    "link": "https://www.youtube.com/@LaboratoriodaJulia"
+  },
+  {
+    "nome": "Vanny",
+    "descricao": "Atualmente eu moro em Orlando, na Florida e depois de anos contribuindo para a comunidade tech com vídeos e arquivos sobre o meu trabalho.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/vanny-logo.jpg",
+    "link": "https://www.youtube.com/channel/UCiWbFL7I1PgC5OnhIVkXySQ"
+  },
+  {
+    "nome": "DevMedia",
+    "descricao": "A DevMedia é a maior Plataforma para desenvolvedores de software em língua portuguesa.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/devmedia-logo.jpg",
+    "link": "https://www.youtube.com/@DevMediaBrasil"
+  },
+  {
+    "nome": "Codesigners",
+    "descricao": "Ponto de convergência entre Design e Programação.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/codesigners-logo.jpg",
+    "link": "https://www.youtube.com/@Codesigners"
+  },
+  {
+    "nome": "Flutterando",
+    "descricao": "Maior comunidade de Flutter/Dart do Brasil.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/flutterando-logo.jpg",
+    "link": "https://www.youtube.com/user/jacobaraujo7"
+  },
+  {
+    "nome": "Loiane Groner",
+    "descricao": "Aulas gratuitas sobre Java, Sencha (Ext JS), JavaScript, Angular e desenvolvimento mobile com Cordova e Ionic.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/loianegroner-logo.jpg",
+    "link": "https://www.youtube.com/@loianegroner"
+  },
+  {
+    "nome": "Fireship",
+    "descricao": "Tutoriais de código para ajudá -lo a criar e enviar seu aplicativo mais rapidamente.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/fireship-logo.jpg",
+    "link": "https://www.youtube.com/@Fireship/featured"
+  },
+  {
+    "nome": "Tiago Aguiar",
+    "descricao": "Você vai aprender como criar aplicativos Android e iOS.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/tiagoaguiar-logo.jpg",
+    "link": "https://www.youtube.com/user/empreendedormobile"
+  },
+  {
+    "nome": "Mario Souto - Dev Soutinho",
+    "descricao": "Após 3 anos trabalhando como instrutor e desde os 11 mexendo com programação decidi compartilhar um pouco dos meus conhecimentos e pesquisas no YouTube",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/mariosouto-logo.jpg",
+    "link": "https://www.youtube.com/@DevSoutinho"
+  },
+  {
+    "nome": "Lottie",
+    "descricao": "Adicione facilmente animação de alta qualidade a qualquer aplicativo nativo.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/Lottie-logo.gif",
+    "link": "https://airbnb.design/lottie"
+  },
+  {
+    "nome": "Introdução à Programação com Python",
+    "descricao": "Este livro é orientado ao iniciante em programação.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/programaçãocompython-logo.jpg",
+    "link": "https://www.amazon.com.br/Introdução-Programação-com-Python-Algoritmos/dp/8575227181/ref=sr_1_5?__mk_pt_BR=ÅMÅŽÕÑ&crid=1SR7WGY4R4NZY&keywords=programação&qid=1672771502&sprefix=programaç%2Caps%2C277&sr=8-5"
+  },
+  {
+    "nome": "Código Limpo",
+    "descricao": "Mesmo um código ruim pode funcionar. Mas se ele não for limpo, pode acabar com uma empresa de desenvolvimento.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/codigolimpo-logo.jpg",
+    "link": "https://www.amazon.com.br/Código-Limpo-Robert-C-Martin-ebook/dp/B085Q2K632/ref=sr_1_6?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-6"
+  },
+  {
+    "nome": "Algoritmos E Lógica Da Programação",
+    "descricao": "Com linguagem simples e didática – sem, no entanto, fugir da complexidade do assunto.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/algoritmoselogicadaprogramação-logo.jpg",
+    "link": "https://www.amazon.com.br/Algoritmos-Lógica-Programação-Marco-Furlan/dp/8522128146/ref=sr_1_7?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-7"
+  },
+  {
+    "nome": "Entendendo Algoritmos",
+    "descricao": "Um guia ilustrado para programadores e outros curiosos.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/entendendoalgoritmos-logo.jpg",
+    "link": "https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=sr_1_8?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-8"
+  },
+  {
+    "nome": "O universo da programação",
+    "descricao": "Desenvolvimento de software não é mais somente uma área de trabalho, mas um verdadeiro universo em constante expansão.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/ouniversodaprogramação-logo.jpg",
+    "link": "https://www.amazon.com.br/Entendendo-Algoritmos-Ilustrado-Programadores-Curiosos/dp/8575225634/ref=sr_1_8?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-8"
+  },
+  {
+    "nome": "Lógica de Programação e Algoritmos com JavaScript",
+    "descricao": "Os conteúdos abordados são fundamentais a todos aqueles que desejam ingressar no universo da Programação de Computadores.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/logicadeprogramaçãoealgoritmoscomjavascript-logo.jpg",
+    "link": "https://www.amazon.com.br/Lógica-Programação-Algoritmos-com-JavaScript/dp/6586057906/ref=sr_1_10?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-10"
+  },
+  {
+    "nome": "Algoritmos",
+    "descricao": "Este livro abrange os principais conceitos de programação de computadores, incluindo a norma ISO 5807:1985",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/algoritmos-logo.jpg",
+    "link": "https://www.amazon.com.br/Lógica-Programação-Algoritmos-com-JavaScript/dp/6586057906/ref=sr_1_10?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-10"
+  },
+  {
+    "nome": "Como ser um Programador Melhor",
+    "descricao": "Se você é apaixonado por programação e quer se aperfeiçoar nisso, está com a fonte de informações perfeita.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/comoserumprogramadormelhor-logo.jpg",
+    "link": "https://www.amazon.com.br/Como-Ser-Um-Programador-Melhor/dp/8575224158/ref=sr_1_19?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-19"
+  },
+  {
+    "nome": "Lógica de programação",
+    "descricao": "Qualquer iniciante poderá seguir nosso passo a passo sozinho para sair do zero e aprender a pensar computacionalmente.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/logicadeprogramação-logo.jpg",
+    "link": "https://www.amazon.com.br/Lógica-programação-construção-algoritmos-estruturas/dp/8582605722/ref=sr_1_25?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-25"
+  },
+  {
+    "nome": "Pense em Python: Pense Como um Cientista da Computação",
+    "descricao": "Se você quer aprender como programar, usar Python é uma ótima forma de começar.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/logicadeprogramaçãoeestruturasdedados-logo.jpg",
+    "link": "https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081/ref=sr_1_42?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-42"
+  },
+  {
+    "nome": "Pense em Python: Pense Como um Cientista da Computação",
+    "descricao": "Se você quer aprender como programar, usar Python é uma ótima forma de começar.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/penseempython-logo.jpg",
+    "link": "https://www.amazon.com.br/Pense-Python-Como-Cientista-Computação/dp/8575225081/ref=sr_1_42?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-42"
+  },
+  {
+    "nome": "Use a cabeça!: programação.",
+    "descricao": "Se você não tem nenhuma experiência em programação, pode estar imaginando por onde começar.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/useacabeçaprogramaçao-logo.jpg",
+    "link": "https://www.amazon.com.br/Use-cabeça-Programação-Paul-Barry/dp/8576084732/ref=sr_1_44?crid=SQMOR6IK8MK9&keywords=programação&qid=1672846093&sprefix=%2Caps%2C429&sr=8-44"
+  },
+  {
+    "nome": "Lógica de Programação. Crie Seus Primeiros Programas Usando Javascript e Html.",
+    "descricao": "Aprenda a programar agora! Este livro apresenta uma abordagem totalmente prática.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/logicadeprogramaçãoalura-logo.jpg",
+    "link": "https://www.amazon.com.br/JavaScript-Guia-Definitivo-David-Flanagan/dp/856583719X/ref=sr_1_53?crid=SQMOR6IK8MK9&keywords=programação&qid=1672848102&sprefix=%2Caps%2C429&sr=8-53&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
+  },
+  {
+    "nome": "Reshot",
+    "descricao": "Mais de 40.000 Svg icons Gratis.",
+    "categoria": "Ilustração",
+    "imagem": "sitesImagens/reshot-logo.jpg",
+    "link": "https://www.reshot.com/free-vector-illustrations/"
+  },
+  {
+    "nome": "Vintage Stock Photos",
+    "descricao": "Mais de 40.000 Svg icons Gratis.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/vintagestockphotos-logo.png",
+    "link": "https://vintagestockphotos.com"
+  },
+  {
+    "nome": "Stockvault",
+    "descricao": "Novas fotos, texturas e ilustrações adicionadas todos os dias!",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/stockvault-logo.png",
+    "link": "https://www.stockvault.net"
+  },
+  {
+    "nome": "Picjumbo",
+    "descricao": "Faça o download de fotos, fundos e imagens de alta resolução gratuitas para uso pessoal e comercial.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/picjumbo-logo.png",
+    "link": "https://picjumbo.com"
+  },
+  {
+    "nome": "Freepik",
+    "descricao": "Todos os recursos que você precisa em um lugar.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/freepik-logo.jpg",
+    "link": "https://br.freepik.com"
+  },
+  {
+    "nome": "Pixabay",
+    "descricao": "Mais de 1 milhão de imagens, fotos e vídeos em alta qualidade para seus projetos.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/pixabay-logo.png",
+    "link": "https://pixabay.com/pt/"
+  },
+  {
+    "nome": "Stocksnap",
+    "descricao": "Belas fotos gratuitas de estoque.",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/stocksnap-logo.jpg",
+    "link": "https://stocksnap.io"
+  },
+  {
+    "nome": "Flickr",
+    "descricao": "Onde você encontra bilhões de fotos",
+    "categoria": "Imagens",
+    "imagem": "sitesImagens/flickr-logo.png",
+    "link": "https://www.flickr.com"
+  },
+  {
+    "nome": "Sprint",
+    "descricao": "Como inovar? Por onde começar? Como formar uma boa equipe? Que forma terá uma ideia quando for colocada em prática?.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/sprint-logo.jpg",
+    "link": "https://www.amazon.com.br/Sprint-Jake-Knapp-ebook/dp/B06XPPS4JW/ref=sr_1_34?__mk_pt_BR=ÅMÅŽÕÑ&crid=T2TPCYMR8OP0&keywords=ux+designer&qid=1672856488&sprefix=ux+designe%2Caps%2C195&sr=8-34"
+  },
+  {
+    "nome": "Storytelling com dados",
+    "descricao": "Storytelling com Dados é admiravelmente bem escrito, uma amostra magistral de rara arte no mundo dos negócios.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/storytellingcomdados-logo.jpg",
+    "link": "https://www.amazon.com.br/Storytelling-com-Dados-Visualização-Profissionais/dp/8550804681/ref=sr_1_37?__mk_pt_BR=ÅMÅŽÕÑ&crid=T2TPCYMR8OP0&keywords=ux+designer&qid=1672856488&sprefix=ux+designe%2Caps%2C195&sr=8-37"
+  },
+  {
+    "nome": "A psicologia das cores",
+    "descricao": "Este livro aborda a relação das cores com os nossos sentimentos e mostra como as duas coisas não se combinam por acaso.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/apsicologiadascores-logo.jpg",
+    "link": "https://www.amazon.com.br/psicologia-das-cores-afetam-emoção/dp/658828005X/ref=sr_1_48?__mk_pt_BR=ÅMÅŽÕÑ&crid=T2TPCYMR8OP0&keywords=ux+designer&qid=1672856488&sprefix=ux+designe%2Caps%2C195&sr=8-48&ufe=app_do%3Aamzn1.fos.6d798eae-cadf-45de-946a-f477d47705b9"
+  },
+  {
+    "nome": "Design Centrado no Usuário",
+    "descricao": "Apresenta uma visão única sobre a forma como pesquisas junto aos usuários são combinadas com os conceitos de design.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/designcentradonousuário-logo.jpg",
+    "link": "https://www.amazon.com.br/Design-Centrado-Usuário-Travis-Lowdermilk/dp/8575223666/ref=sr_1_5?__mk_pt_BR=ÅMÅŽÕÑ&crid=T2TPCYMR8OP0&keywords=ux+designer&qid=1672856488&sprefix=ux+designe%2Caps%2C195&sr=8-5"
+  },
+  {
+    "nome": "Introdução e boas práticas em UX Design",
+    "descricao": "Cada vez mais o desenvolvimento do front-end de sites e sistemas tem papel preponderante em como o seu site converte, retém e agrada os usuários.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/introducaoeboaspraticasemuxdesign-logo.jpg",
+    "link": "https://www.amazon.com.br/Introdução-boas-práticas-UX-Design-ebook/dp/B01B6MSSRW/ref=sr_1_6?__mk_pt_BR=ÅMÅŽÕÑ&crid=T2TPCYMR8OP0&keywords=ux+designer&qid=1672856488&sprefix=ux+designe%2Caps%2C195&sr=8-6"
+  },
+  {
+    "nome": "Estratégia de UX",
+    "descricao": "A estratégia de UX (User Experience, ou Experiência de Usuário) está na intersecção entre o UX design e a estratégia de negócios.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/estrategiadeux-logo.jpg",
+    "link": "https://www.amazon.com.br/Introdução-boas-práticas-UX-Design-ebook/dp/B01B6MSSRW/ref=sr_1_6?__mk_pt_BR=ÅMÅŽÕÑ&crid=T2TPCYMR8OP0&keywords=ux+designer&qid=1672856488&sprefix=ux+designe%2Caps%2C195&sr=8-6"
+  },
+  {
+    "nome": "Gestão de Projetos - Preditiva, Ágil e Estratégica",
+    "descricao": "Uma seleção das ferramentas mais utilizadas no mundo preditivo",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/gestaodeprojetos-logo.jpg",
+    "link": "https://www.amazon.com.br/Gestão-Projetos-Preditiva-Ágil-Estratégica/dp/6559770834/ref=sr_1_2?keywords=gestão+de+projetos&qid=1672856481&sprefix=gestão+de+pro%2Caps%2C232&sr=8-2"
+  },
+  {
+    "nome": "Fundamentos em Gestão de Projetos",
+    "descricao": "Um livro que se diferencia dos demais publicados na área",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/fundamentosemgestãodeprojetos-logo.jpg",
+    "link": "https://www.amazon.com.br/Fundamentos-Gestão-Projetos-Construindo-Competências/dp/8597018615/ref=sr_1_4?keywords=gestão+de+projetos&qid=1672856481&sprefix=gestão+de+pro%2Caps%2C232&sr=8-4&ufe=app_do%3Aamzn1.fos.6121c6c4-c969-43ae-92f7-cc248fc6181d"
+  },
+  {
+    "nome": "Gestão ágil de projetos: As melhores soluções para suas necessidades",
+    "descricao": "Um livro que se diferencia dos demais publicados na área",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/gestaoagildeprojetos-logo.jpg",
+    "link": "https://www.amazon.com.br/Gestão-ágil-projetos-melhores-necessidades/dp/8553131874/ref=sr_1_7?keywords=gestão+de+projetos&qid=1672856481&sprefix=gestão+de+pro%2Caps%2C232&sr=8-7"
+  },
+  {
+    "nome": "Gerenciamento de risco em projetos",
+    "descricao": "O objetivo deste livro é apresentar uma metodologia de gestão de riscos que pode ser empregada para qualquer projeto.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/gerenciamentoderiscoemprojetos-logo.jpg",
+    "link": "https://www.amazon.com.br/Gerenciamento-Risco-Projetos-Ferramentas-Integrada/dp/8550803170/ref=sr_1_14?keywords=gestão+de+projetos&qid=1672856481&sprefix=gestão+de+pro%2Caps%2C232&sr=8-14"
+  },
+  {
+    "nome": "Scrum: A arte de fazer o dobro do trabalho na metade do tempo",
+    "descricao": "Repleto de histórias empolgantes e exemplos reais.",
+    "categoria": "Livros",
+    "imagem": "sitesImagens/scrum-logo.jpg",
+    "link": "https://www.amazon.com.br/SCRUM-fazer-dobro-trabalho-metade/dp/8543107164/ref=sr_1_28?keywords=gestão+de+projetos&qid=1672856481&sprefix=gestão+de+pro%2Caps%2C232&sr=8-28"
+  },
+  {
+    "nome": "Plant",
+    "descricao": "Controle de versão para designers.",
+    "categoria": "Ferramentas de design",
+    "imagem": "sitesImagens/plantapp-logo.jpg",
+    "link": "https://plantapp.io"
+  },
+  {
+    "nome": "Introdução a UX/UI Design",
+    "descricao": "Aprenda os primeiros passos para criar aplicativos e sites que sejam visualmente agradáveis e proporcionem uma ótima experiência ao usuário.",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/awari-logo.png",
+    "link": "https://awari.com.br/curso/ux-ui-design-gratuito/#como-funciona"
+  },
+  {
+    "nome": "Portal GEEaD",
+    "descricao": "É que um formato de curso a distância que usa ferramentas web para oferecer seu conteúdo simultaneamente para um grande número de pessoas.",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/portalgeead-logo.jpg",
+    "link": "https://portalgeead.cps.sp.gov.br/mooc/"
+  },
+  {
+    "nome": "Tim tec",
+    "descricao": "O objetivo deste curso é mostrar os principais conceitos e princípios de Usabilidade e Design",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/timtec-logo.png",
+    "link": "https://timtec.com.br/curso/ux-e-ui-design/"
+  },
+  {
+    "nome": "Cursou",
+    "descricao": "O objetivo deste curso é mostrar os principais conceitos e princípios de Usabilidade e Design",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/cursou-logo.png",
+    "link": "https://www.cursou.com.br/design/ux-ui-design/"
+  },
+  {
+    "nome": "Ironhack",
+    "descricao": "Construa sua confiança no design UX/UI.",
+    "categoria": "Aprender Design",
+    "imagem": "sitesImagens/ironhack-logo.png",
+    "link": "https://www.ironhack.com/en/ux-shortcourse-start"
+  },
+  {
+    "nome": "Femke",
+    "descricao": "Designer de produtos com foco em aprendizados e experiências de ser um designer",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/femke-logo.png",
+    "link": "https://www.ironhack.com/en/ux-shortcourse-start"
+  },
+  {
+    "nome": "Estagiotrainee",
+    "descricao": "Organizamos os melhores processos seletivos de grandes empresas de forma simples e objetiva num único lugar.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/estagiotrainee-logo.jpg",
+    "link": "https://www.ironhack.com/en/ux-shortcourse-start"
+  },
+  {
+    "nome": "ProcurandoEmprego",
+    "descricao": "Site de emprego grátis, vagas de empregos para todo o Brasil em diversos setores.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/procurandoemprego-logo.jpg",
+    "link": "http://www.procurandoemprego.net"
+  },
+  {
+    "nome": "Glassdoor",
+    "descricao": "Encontre milhões de vagas e obtenha informações privilegiadas de empresas com avaliações de funcionários.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/glassdoor-logo.jpg",
+    "link": "https://www.glassdoor.com.br/index.htm"
+  },
+  {
+    "nome": "Gupy",
+    "descricao": "Os softwares de Recrutamento e Seleção e Admissão Digital da Gupy te ajudam a encontrar e admitir os melhores talentos para a sua empresa.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/gupy-logo.jpg",
+    "link": "https://portal.gupy.io"
+  },
+  {
+    "nome": "Estagiarios",
+    "descricao": "Os melhores estágios",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/estagiarios-logo.jpg",
+    "link": "https://estagiarios.com/default.asp"
+  },
+  {
+    "nome": "Cia de Estagios",
+    "descricao": "Que tal encontrar uma vaga que tem tudo a ver com você?",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/ciadeestagios-logo.jpg",
+    "link": "https://www.ciadeestagios.com.br"
+  },
+  {
+    "nome": "Indeed",
+    "descricao": "Aqui você pode pesquisar milhões de vagas e decidir a trajetória da sua carreira.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/indeed-logo.png",
+    "link": "https://br.indeed.com"
+  },
+  {
+    "nome": "Hipsters Jobs",
+    "descricao": "Encontre vagas em tecnologia",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/hipstersjobs-logo.png",
+    "link": "https://hipsters.jobs"
+  },
+  {
+    "nome": "Trampos",
+    "descricao": "Encontre vagas em tecnologia",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/trampos-logo.jpg",
+    "link": "https://trampos.co/oportunidades/"
+  },
+  {
+    "nome": "Geekhunter",
+    "descricao": "As melhores vagas para profissionais de tecnologia",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/geekhunter-logo.png",
+    "link": "https://www.geekhunter.com.br/vagas"
+  },
+  {
+    "nome": "We Work Remotely",
+    "descricao": "We Work Remotely é a maior comunidade de trabalho remoto do mundo.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/weworkremotely-logo.png",
+    "link": "https://weworkremotely.com"
+  },
+  {
+    "nome": "Upwork",
+    "descricao": "Plataforma Freelancer",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/upwork-logo.png",
+    "link": "https://www.upwork.com"
+  },
+  {
+    "nome": "Workana",
+    "descricao": "Conectamos os melhores talentos independentes com as melhores empresas.(Plataforma Freelancer)",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/workana-logo.jpg",
+    "link": "https://www.workana.com/pt"
+  },
+  {
+    "nome": "Coodesh",
+    "descricao": "Valide seu potencial para alcançar as melhores oportunidades tech.",
+    "categoria": "Trabalhos",
+    "imagem": "sitesImagens/coodesh-logo.png",
+    "link": "https://coodesh.com"
+  },
+  {
+    "nome": "Rocketseat",
+    "descricao": "Impulsionamos milhares de devs diariamente",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/rocketseat-logo.png",
+    "link": "https://www.rocketseat.com.br"
+  },
+  {
+    "nome": "Potência tech",
+    "descricao": "Impulsionamos milhares de devs diariamente",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/potenciatech-logo.jpeg",
+    "link": "https://potenciatech.com.br"
+  },
+  {
+    "nome": "Playcode",
+    "descricao": "(Compilador online)",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/playcode-logo.png",
+    "link": "https://playcode.io/new"
+  },
+  {
+    "nome": "Repl it",
+    "descricao": "(Compilador online)",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/replit-logo.png",
+    "link": "https://replit.com/"
+  },
+  {
+    "nome": "Online Markdown Editor",
+    "descricao": "Editor Markdown online com colaboração em tempo real",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/replit-logo.png",
+    "link": "https://onlinemarkdowneditor.dev"
+  },
+  {
+    "nome": "BitDegree",
+    "descricao": "O BitDegree oferece uma tonelada de cursos gratuitos que vão desde programação a desenvolvimento de games.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/bitdegree-logo.png",
+    "link": "https://www.bitdegree.org/learn/"
+  },
+  {
+    "nome": "Coursera",
+    "descricao": "A Coursera é uma das maiores plataformas de ensino à distância pela internet no mundo.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/coursera-logo.png",
+    "link": "https://www.coursera.org"
+  },
+  {
+    "nome": "Codecademy",
+    "descricao": "O Code Academy é uma das plataformas de ensino na área de maior referência e uma das mais utilizadas no mundo.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/codecademy-logo.png",
+    "link": "https://www.codecademy.com"
+  },
+  {
+    "nome": "Edx",
+    "descricao": "É uma plataforma educacional de código-aberto gigantesca.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/edx-logo.jpg",
+    "link": "https://www.edx.org/learn/computer-programming"
+  },
+  {
+    "nome": "Khan Academy",
+    "descricao": "É uma das plataformas pioneiras no ensino à distância e gratuito de programação.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/kanacademy-logo.jpg",
+    "link": "https://www.khanacademy.org/computing/computer-programming"
+  },
+  {
+    "nome": "Codewars",
+    "descricao": "é uma plataforma para quem gosta de desafios e busca refinar suas habilidades praticando e se aperfeiçoando com o tempo.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/codewars-logo.png",
+    "link": "https://www.codewars.com"
+  },
+  {
+    "nome": "Code",
+    "descricao": "Disponível também em português, o Code.org é uma iniciativa para ensinar programação a crianças.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/code-logo.png",
+    "link": "https://code.org"
+  },
+  {
+    "nome": "The Odin Project",
+    "descricao": "Elimina todas as conjecturas do desenvolvimento de sites na internet.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/theodinproject-logo.jpg",
+    "link": "https://www.theodinproject.com"
+  },
+  {
+    "nome": "Flexbox Froggy",
+    "descricao": "É um joguinho fofo feito para passar os conceitos de Flexbox.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/flexboxfroggy-logo.png",
+    "link": "https://flexboxfroggy.com"
+  },
+  {
+    "nome": "Cssbattle",
+    "descricao": "É necessário replicar um dos layouts disponíveis com a menor quantidade de código possível.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/cssbattle-logo.png",
+    "link": "https://cssbattle.dev/"
+  },
+  {
+    "nome": "Grid Garden",
+    "descricao": "Tem o objetivo de ensinar os conceitos de Grid, suas propriedades e como utilizá-las.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/cssgridgarden-logo.png",
+    "link": "https://cssgridgarden.com/"
+  },
+  {
+    "nome": "Flukeout",
+    "descricao": "Ensina maneiras diferentes de usar os seletores de CSS como classes, ids, elementos e pseudo classes.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/cssdiner-logo.png",
+    "link": "https://flukeout.github.io/"
+  },
+  {
+    "nome": "Flexbox Zombies",
+    "descricao": "Esse jogo é um pouco mais complexo que os anteriores, mas também foi feito para praticar o Flexbox.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/flexboxzombies-logo.jpg",
+    "link": "https://mastery.games/flexboxzombies/"
+  },
+  {
+    "nome": "Flexbox Defense",
+    "descricao": "É mais um jogo gratuito para praticar Flexbox, o objetivo do jogo é alinhar canhões e fazer sua defesa.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/flexboxdefense-logo.png",
+    "link": "http://www.flexboxdefense.com/"
+  },
+  {
+    "nome": "Convertio",
+    "descricao": "A ferramenta fácil para converter ficheiros online.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/convertio-logo.png",
+    "link": "https://convertio.co/pt/"
+  },
+  {
+    "nome": "Blob Maker",
+    "descricao": "Crie formas SVG orgânicas para o seu próximo design.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/blobmaker-logo.png",
+    "link": "https://www.blobmaker.app/"
+  },
+  {
+    "nome": "Css Houdini",
+    "descricao": "Demonstração de efeitos de webdesign simples e avançados",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/convertio-logo.png",
+    "link": "https://css-houdini.rocks/"
+  },
+  {
+    "nome": "Can I Use",
+    "descricao": "Fornece tabelas de suporte de navegador atualizadas para suporte.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/caniuse-logo.png",
+    "link": "https://caniuse.com/"
+  },
+  {
+    "nome": "DevDocs",
+    "descricao": "Navegador de documentação rápido, offline e gratuito para desenvolvedores.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/devdocs-logo.png",
+    "link": "https://caniuse.com/"
+  },
+  {
+    "nome": "4Devs",
+    "descricao": "Ferramentas online gratuitas.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/4devs-logo.png",
+    "link": "https://www.4devs.com.br"
+  },
+  {
+    "nome": "TinyWow",
+    "descricao": "Escrita AI gratuita, PDF, imagem e outras ferramentas on-line",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/tinywow-logo.jpg",
+    "link": "https://tinywow.com"
+  },
+  {
+    "nome": "Glyphy",
+    "descricao": "Copiar e colar glifos com facilidade.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/glyphy-logo.gif",
+    "link": "https://glyphy.io/"
+  },
+  {
+    "nome": "Paper Sizes",
+    "descricao": "Todos os tamanhos para formatos de papel internacional.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/papersizes-logo.jpg",
+    "link": "https://papersizes.io/"
+  },
+  {
+    "nome": "How Big Is My Browser",
+    "descricao": "Encontre o tamanho da janela do seu navegador",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/howbigismybrowser-logo.jpeg",
+    "link": "http://howbigismybrowser.com/"
+  },
+  {
+    "nome": "Tech Guide",
+    "descricao": "Descubra possíveis caminhos para se tornar profissional",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/techguide-logo.png",
+    "link": "https://techguide.sh"
+  },
+  {
+    "nome": "Roadmap",
+    "descricao": "É um esforço comunitário para criar roteiros, guias e outros conteúdos educacionais para ajudar a orientar os desenvolvedores",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/roadmap-logo.png",
+    "link": "https://roadmap.sh"
+  },
+  {
+    "nome": "Emerson Broga",
+    "descricao": "Programador há mais de 15 anos, sou formado em Desenvolvimento de Sistemas pela Faculdade Pitágoras e pós-graduado em Gestão Estratégica de Marketing pela PUC Minas.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/emersonbrogadev-logo.jpg",
+    "link": "https://www.youtube.com/@emersonbrogadev"
+  },
+  {
+    "nome": "Upskill",
+    "descricao": "A plataforma é uma espécie de campo de treinamento que leva o usuário do nível iniciante ao avançado com aulas em vídeo didáticas e acessíveis.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/upskill-logo.png",
+    "link": "https://upskillcourses.com"
+  },
+  {
+    "nome": "Google Developrs",
+    "descricao": "Esta plataforma é uma iniciativa dos programadores experts do Google e que também oferece um diploma próprio do Google Developers Certification.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/androiddeveloper-logo.png",
+    "link": "https://developers.google.com/learn"
+  },
+  {
+    "nome": "Solo Learn",
+    "descricao": "É um site gratuito que oferece uma variedade de linguagens de programação.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/sololearn-logo.jpg",
+    "link": "https://www.sololearn.com"
+  },
+  {
+    "nome": "Edabit",
+    "descricao": "O Edabit traz uma abordagem um pouco diferente para você aprender a programar.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/edabit-logo.png",
+    "link": "https://edabit.com"
+  },
+  {
+    "nome": "Coderbyte",
+    "descricao": "Desafie-se a codificar e entrevistar melhor.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/coderbyte-logo.png",
+    "link": "https://coderbyte.com/developers"
+  },
+  {
+    "nome": "Codingame",
+    "descricao": "A nova maneira de melhorar suas habilidades de programação enquanto se diverte e é notado.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/codingame-logo.png",
+    "link": "https://www.codingame.com/start"
+  },
+  {
+    "nome": "Neps Academy",
+    "descricao": "É uma plataforma online de cursos e treinamento em programação.",
+    "categoria": "Aprender Programação",
+    "imagem": "sitesImagens/nepsacademy-logo.jpg",
+    "link": "https://neps.academy/br/"
+  },
+  {
+    "nome": "Stackedit",
+    "descricao": "StackEdit é um Markdown gratuito e de código aberto.",
+    "categoria": "Recursos",
+    "imagem": "sitesImagens/stackedit-logo.jpg",
+    "link": "https://stackedit.io/"
+  },
+  {
+    "nome": "Clever Programmer",
+    "descricao": "Espere dicas e truques de programação que levarão suas habilidades de codificação para o próximo nível.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/cleverprogrammer-logo.jpg",
+    "link": "https://www.youtube.com/@CleverProgrammer"
+  },
+  {
+    "nome": "Otávio Miranda",
+    "descricao": "Trabalhei por mais de 12 anos com desenvolvimento de softwares para terceiros usando várias linguagens, libs e frameworks diferentes.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/otaviomiranda-logo.jpg",
+    "link": "https://www.youtube.com/@OtavioMiranda"
+  },
+  {
+    "nome": "Dev Aprender",
+    "descricao": "Tudo sobre freelancing, Dicas de Carreira, trabalho remoto, como ganhar mais como programador.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/devaprender-logo.jpg",
+    "link": "https://www.youtube.com/@DevAprender"
+  },
+  {
+    "nome": "Hashtag Programação",
+    "descricao": "Aprenda o que você precisa de Programação pra virar uma referência no mercado de trabalho.",
+    "categoria": "Canais do Youtube",
+    "imagem": "sitesImagens/hashtagprogramacao-logo.jpg",
+    "link": "https://www.youtube.com/@HashtagProgramacao"
+  }
+]

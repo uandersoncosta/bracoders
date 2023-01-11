@@ -1,70 +1,21 @@
-# Getting Started with Create React App
+<img align="center" src="public/assets/bracodersImg" alt="(Prévia)Video do Encriptador">
+[<div align="center">![Olá Mundo](https://shields.io/badge/Olá-Mundo-blue)](https://github.com/uandersoncosta/challengeEncriptadorAlura)
+[![Status](https://shields.io/badge/Tecnologias%20Utilizadas-|%20HTML%205%20|%20CSS%203%20|%20JavaScript%20|-orange)](https://github.com/uandersoncosta/challengeEncriptadorAlura) 
+[![View Deployment](https://shields.io/badge/View-Deployment-yellow.svg)](https://uandersoncosta.github.io/challengeEncriptadorAlura/) [![View Challenge](https://shields.io/badge/View-Challenge-red.svg)](https://github.com/topics/challengeonedecodificador3) </div>
+braCoders é um website com amontoado de links importantes para ajudar a comunidade brasileira de programadores e designers.
+<hr>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Decidi criar esse site porque quero ajudar as pessoas que estão comendo a estudar programação, assim juntando links de sites importantes, que estão espalhados na internet e juntando em um lugar só facilitando os estudos. Também é o meu primeiro site em react.js, então decidir colocar prática o que estou estudando em no último mês usando propriedades, hooks e componentes.
 
-## Available Scripts
+### O projeto é Open source?
+O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e compartilhando links que ira ajudar as pessoas. Então se você quer contribuir com algum link faça o clone desse projeto e altere o arquivo json, adicionando nome, descrição, categoria, imagem e link do site que você quer adiconar.
 
-In the project directory, you can run:
+**Obs:** A imagem deve ser em até **800x800(PNG OU JPG)** e adicionada na pasta public>siteImagens.
+**Obs 2:** A descrição deve ter no máximo duas linhas.
 
-### `npm start`
+## 🔗 Links uteis
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+[<div align="center">![LinkedIn](https://shields.io/badge/LinkedIn-LinkedIn-aqua)](https://www.linkedin.com/in/uandersoncosta/)
+[![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/uandersoncosta/)
+[![Portfólio](https://shields.io/badge/Portfólio-Uanderson-brown)](https://github.com/uandersoncosta/)
+</div>
