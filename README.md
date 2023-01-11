@@ -1,6 +1,6 @@
 <img align="center" src="public/assets/bracodersImg.png" alt="(Prévia)Video do Encriptador">
 
-braCoders é um website com amontoado de links importantes para ajudar a comunidade brasileira de programadores e designers.
+braCoders é um website com amontoado de links importantes para ajudar a comunidade brasileira de programadores e designers.<br>
 [Deploy](https://bracoders.vercel.app)
 <hr>
 
