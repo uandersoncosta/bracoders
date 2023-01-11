@@ -17,6 +17,6 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 ## 🔗 Links uteis
 
 [<div align="center">![LinkedIn](https://shields.io/badge/LinkedIn-LinkedIn-aqua)](https://www.linkedin.com/in/uandersoncosta/)
-[![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/uandersoncosta/)
+[![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/uandersoncosta)
 [![Portfólio](https://shields.io/badge/Portfólio-Uanderson-brown)](https://github.com/uandersoncosta/)
 </div>
