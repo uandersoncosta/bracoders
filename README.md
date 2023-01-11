@@ -15,4 +15,4 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 ## 🔗 Links uteis
 
 [LinkedIn](https://www.linkedin.com/in/uandersoncosta/)
-[Deploy](https://github.com/uandersoncosta/)
+[Portfólio](https://github.com/uandersoncosta/)
