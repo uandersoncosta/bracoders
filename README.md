@@ -1,6 +1,6 @@
 <img align="center" src="public/assets/bracodersImg.png" alt="(Prévia)Video do Encriptador">
 
-braCoders é um website com amontoado de links importantes para ajudar a comunidade brasileira de programadores e designers.<br>
+braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de icones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponiveis na internet.<br>
 [Deploy](https://bracoders.vercel.app)
 <hr>
 
@@ -14,6 +14,5 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 
 ## 🔗 Links uteis
 
-[<div align="center">![LinkedIn](https://shields.io/badge/LinkedIn-LinkedIn-aqua)](https://www.linkedin.com/in/uandersoncosta/)
-[![Perfil GitHub](https://shields.io/badge/Perfil-GitHub-blue)](https://github.com/uandersoncosta)
-[![Portfólio](https://shields.io/badge/Portfólio-Uanderson-brown)](https://github.com/uandersoncosta/)</div>
+[LinkedIn](https://www.linkedin.com/in/uandersoncosta/)
+[Deploy](https://github.com/uandersoncosta/)
