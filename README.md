@@ -1,6 +1,7 @@
 <img align="center" src="public/assets/bracodersImg.png" alt="(Prévia)Video do Encriptador">
 
-braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de icones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponiveis na internet.<br>
+braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de icones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponiveis na internet.
+<br>
 [Deploy](https://bracoders.vercel.app)
 <hr>
 
