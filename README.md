@@ -2,7 +2,13 @@
 
 braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de icones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponiveis na internet.
 <br>
-[Deploy](https://bracoders.vercel.app)
+<p align="center">
+    <a href="https://bracoders.vercel.app" target="blank">Deploy</a>
+    ·
+    <a href="https://github.com/uandersoncosta/bracoders/issues">Report Bug</a>
+    ·
+    <a href="https://github.com/uandersoncosta/bracoders/issues">Request Feature</a>
+</p>
 <hr>
 
 Decidi criar esse site porque quero ajudar as pessoas que estão comendo a estudar programação, assim juntando links de sites importantes, que estão espalhados na internet e juntando em um lugar só facilitando os estudos. Também é o meu primeiro site em react.js, então decidir colocar prática o que estou estudando em no último mês usando propriedades, hooks e componentes.
@@ -18,3 +24,8 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 
 [LinkedIn](https://www.linkedin.com/in/uandersoncosta/)
 [Portfólio](https://github.com/uandersoncosta/)
+
+## 🙏 Apoio
+Esse projeto precisa de uma ⭐️ sua. Não esqueça de deixar uma ⭐️
+
+Se você achou esse site util, compartilhe com os seus amigos.
