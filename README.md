@@ -22,8 +22,8 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 
 ## 🔗 Links uteis
 
-[LinkedIn](https://www.linkedin.com/in/uandersoncosta/)
-[Portfólio](https://github.com/uandersoncosta/)
+Meu [LinkedIn](https://www.linkedin.com/in/uandersoncosta/)<br>
+Meu [Portfólio](https://github.com/uandersoncosta/)
 
 ## 🙏 Apoio
 Esse projeto precisa de uma ⭐️ sua. Não esqueça de deixar uma ⭐️
