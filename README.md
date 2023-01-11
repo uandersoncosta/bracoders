@@ -1,4 +1,5 @@
 <img align="center" src="public/assets/bracodersImg" alt="(Prévia)Video do Encriptador">
+
 [<div align="center">![Olá Mundo](https://shields.io/badge/Olá-Mundo-blue)](https://github.com/uandersoncosta/challengeEncriptadorAlura)
 [![Status](https://shields.io/badge/Tecnologias%20Utilizadas-|%20HTML%205%20|%20CSS%203%20|%20JavaScript%20|-orange)](https://github.com/uandersoncosta/challengeEncriptadorAlura) 
 [![View Deployment](https://shields.io/badge/View-Deployment-yellow.svg)](https://uandersoncosta.github.io/challengeEncriptadorAlura/) [![View Challenge](https://shields.io/badge/View-Challenge-red.svg)](https://github.com/topics/challengeonedecodificador3) </div>
