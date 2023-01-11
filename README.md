@@ -12,6 +12,7 @@ O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e
 
 **Obs:** A imagem deve ser em até **800x800(PNG OU JPG)** e adicionada na pasta public>siteImagens.
 **Obs 2:** A descrição deve ter no máximo duas linhas.
+**Obs 3:** A imagem deve ser nomeada como "nomedaimagem-logo.png/jpg"
 
 ## 🔗 Links uteis
 
