@@ -1,6 +1,6 @@
 <img align="center" src="public/assets/bracodersImg.png" alt="(Prévia)Video do Encriptador">
 
-braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de icones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponiveis na internet.
+braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de ícones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponíveis na internet.
 <br>
 <p align="center">
     <a href="https://bracoders.vercel.app" target="blank">Deploy</a>
@@ -14,7 +14,7 @@ braCoders é um website com amontoado de links importantes como canais no youtub
 Decidi criar esse site porque quero ajudar as pessoas que estão comendo a estudar programação, assim juntando links de sites importantes, que estão espalhados na internet e juntando em um lugar só facilitando os estudos. Também é o meu primeiro site em react.js, então decidir colocar prática o que estou estudando em no último mês usando propriedades, hooks e componentes.
 
 ### O projeto é Open source?
-O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e compartilhando links que ira ajudar as pessoas. Então se você quer contribuir com algum link faça o clone desse projeto e altere o arquivo json, adicionando nome, descrição, categoria, imagem e link do site que você quer adiconar.
+O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e compartilhando links que ira ajudar as pessoas. Então se você quer contribuir com algum link faça o clone desse projeto e altere o arquivo json, adicionando nome, descrição, categoria, imagem e link do site que você quer adicionar.
 
 **Obs:** A imagem deve ser em até **800x800(PNG OU JPG)** e adicionada na pasta public>siteImagens.
 **Obs 2:** A descrição deve ter no máximo duas linhas.
