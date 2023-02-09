@@ -1,6 +1,6 @@
 <img align="center" src="public/assets/bracodersImg.png" alt="(Prévia)Video do Encriptador">
 
-braCoders é um website com amontoado de links importantes como canais no youtube, livros, site de cursos, site de ilustrações, site de ícones e muito mais. O objetivo do site é ajudar os iniciantes que estão entrando no mundo da tecnologia com os melhores links disponíveis na internet.
+O braCoders é um site com uma coleção valiosa de links úteis para iniciantes no mundo da tecnologia. Ele inclui canais no YouTube, livros, sites de cursos, ilustrações, ícones e muito mais, tudo com o objetivo de facilitar o processo de aprendizado em programação.
 <br>
 <p align="center">
     <a href="https://bracoders.vercel.app" target="blank">Deploy</a>
@@ -11,7 +11,9 @@ braCoders é um website com amontoado de links importantes como canais no youtub
 </p>
 <hr>
 
-Decidi criar esse site porque quero ajudar as pessoas que estão comendo a estudar programação, assim juntando links de sites importantes, que estão espalhados na internet e juntando em um lugar só facilitando os estudos. Também é o meu primeiro site em react.js, então decidir colocar prática o que estou estudando em no último mês usando propriedades, hooks e componentes.
+Como um entusiasta em aprender e aplicar novos conhecimentos em React.js, decidi criar este site para reunir links importantes de sites dispersos na internet, tornando-os acessíveis e fáceis de encontrar em um único local. Além disso, este projeto também serve como uma oportunidade para colocar em prática o que venho estudando sobre propriedades, hooks e componentes em React.js.
+
+Se você é um iniciante na programação, visite o braCoders e descubra todas as ferramentas e recursos que ele tem a oferecer para ajudá-lo em seu caminho de aprendizado.
 
 ### O projeto é Open source?
 O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e compartilhando links que ira ajudar as pessoas. Então se você quer contribuir com algum link faça o clone desse projeto e altere o arquivo json, adicionando nome, descrição, categoria, imagem e link do site que você quer adicionar.
