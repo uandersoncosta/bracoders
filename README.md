@@ -15,6 +15,11 @@ Como um entusiasta em aprender e aplicar novos conhecimentos em React.js, decidi
 
 Se você é um iniciante na programação, visite o braCoders e descubra todas as ferramentas e recursos que ele tem a oferecer para ajudá-lo em seu caminho de aprendizado.
 
+## 💻 Codei com
+
+- [React](https://pt-br.reactjs.org)
+- [Styled Components](https://styled-components.com)
+
 ### O projeto é Open source?
 O objetivo é incentivar as pessoas a alimentar o site para continuar ajudando e compartilhando links que ira ajudar as pessoas. Então se você quer contribuir com algum link faça o clone desse projeto e altere o arquivo json, adicionando nome, descrição, categoria, imagem e link do site que você quer adicionar.
 
